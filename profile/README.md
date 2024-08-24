@@ -17,12 +17,4 @@ We prioritize quality, efficiency, and risk mitigation associated with software 
 
 At the heart of [Byte Creative](https://www.bytecreative.cg/) lies a team of highly talented individuals with original ideas and a great sense of ownership of their work. Our world-class team strives to push the boundaries of the software industry through quality, pragmatic custom solutions that bring to life our clients' visions. [Join our mission](https://www.byte.cg/join-us/) to push the boundaries of the software industry and discover meaningful opportunities.
 
-[Linkedin](https://www.linkedin.com/company/bytecreative/)
-
-[GitHub](https://github.com/bytecreative)
-
-[Twitter](https://twitter.com/bytecreativ)
-
-[Facebook](https://www.facebook.com/bytecreativecg)
-
-[Blog](https://www.bytecreative.com/blog/)
+[Linkedin](https://www.linkedin.com/company/bytecreative/)          [GitHub](https://github.com/bytecreative)          [Twitter](https://twitter.com/bytecreativ)          [Facebook](https://www.facebook.com/bytecreativecg)          [Blog](https://www.bytecreative.com/blog/)
