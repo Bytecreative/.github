@@ -1,6 +1,6 @@
 # ByteCreative
 
-![Stack Builders GitHub Banner-Resize](https://github.com/nzokolab/.github/raw/main/banner.gif)
+![Nzokolab GitHub Banner-Resize](https://github.com/nzokolab/.github/raw/main/banner.gif)
 
 Byte Creative is a software consultancy firm with expertise in functional programming that develops robust, reliable, and scalable solutions through innovative problem-solving approaches.
 
