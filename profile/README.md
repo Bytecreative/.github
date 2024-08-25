@@ -1,4 +1,4 @@
-# Byte Creative
+# ByteCreative
 
 ![Stack Builders GitHub Banner-Resize](https://github.com/nzokolab/.github/raw/main/banner.gif)
 
